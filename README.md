@@ -33,6 +33,7 @@ languages = [
   "unity/webpack/hugo/nextjs/redux",
   "more...",
 ]
+
 tools = [
   "kubernetes/docker/kafka",
   "postgresql/mongodb/mariadb",
@@ -44,25 +45,19 @@ tools = [
 ]
 ```
 
-## Goals for 2020
+## Goals for 2021
 
-* Keep improving [RFGames](https://rfgames.tw) website.
-* And more ...
-
-----------------------------------------------------------------
+* [RFGames](https://rfgames.tw) website
+  * Improve website performance
+  * Add new features
+  * More content
+* A new game tool
+* A new website
+* A mobile app
+* And more new projects ...
 
 <div align="center">
 
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true)](https://github.com/progamesigner)
-
-</div>
-
-<div align="center">
-
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" width="24px">](https://progamesigner.com)
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" width="24px">](https://0x148.com)
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="24px">](mailto:progamesigner@outlook.com)
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="24px">](https://twitter.com/progamesigner)
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24px">](https://www.linkedin.com/in/progamesigner)
 
 </div>
