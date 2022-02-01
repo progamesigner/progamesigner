@@ -45,7 +45,7 @@ tools = [
 ]
 ```
 
-## Goals for 2021
+## Goals for 2022
 
 * [RFGames](https://rfgames.tw) website
   * Improve website performance
