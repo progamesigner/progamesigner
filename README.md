@@ -45,15 +45,12 @@ tools = [
 ]
 ```
 
-## Goals for 2022
+## Goals for 2023
 
-* [RFGames](https://rfgames.tw) website
-  * Improve website performance
-  * Add new features
-  * More content
-* A new game tool
-* A new website
-* A mobile app
+* Maintenance
+  * [RFGames](https://rfgames.tw) website
+  * [Secret Send](https://send.0x148.com)
+* 5+ tools and mobile apps
 * And more new projects ...
 
 <div align="center">
