@@ -49,8 +49,9 @@ tools = [
 
 * Maintenance
   * [RFGames](https://rfgames.tw) website
-  * [Secret Send](https://send.0x148.com)
 * 5+ tools and mobile apps
+  * [Secret Send](https://send.0x148.com)
+  * [Wi-Fi Card](http://wificard.0x148.com/)
 * And more new projects ...
 
 <div align="center">
