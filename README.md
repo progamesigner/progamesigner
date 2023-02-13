@@ -29,8 +29,8 @@ languages = [
   "rust/go/java",
   "php/typescript/python/ruby/lua",
   "javascript/html/css/scss/sql",
-  "react/vuejs/mithril",
-  "unity/webpack/hugo/nextjs/redux",
+  "react/vuejs/mithril/redux",
+  "unity/webpack/hugo/nextjs/svelte",
   "more...",
 ]
 
@@ -49,6 +49,7 @@ tools = [
 
 * Maintenance
   * [RFGames](https://rfgames.tw) website
+  * [devcontainers](https://github.com/progamesigner/devcontainers) for [DevContainers](https://containers.dev)
 * 5+ tools and mobile apps
   * [Secret Send](https://send.0x148.com)
   * [Wi-Fi Card](http://wificard.0x148.com/)
