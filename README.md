@@ -52,7 +52,8 @@ tools = [
   * [devcontainers](https://github.com/progamesigner/devcontainers) for [DevContainers](https://containers.dev)
 * 5+ tools and mobile apps
   * [Secret Send](https://send.0x148.com)
-  * [Wi-Fi Card](http://wificard.0x148.com/)
+  * [Wi-Fi Card](https://github.com/progamesigner/wificard)
+  * [BoardGameGallery](https://github.com/progamesigner/boardgamegallery)
 * And more new projects ...
 
 <div align="center">
