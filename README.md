@@ -47,19 +47,45 @@ tools = [
 
 ## Goals for 2023
 
-* Maintenance
-  * [RFGames](https://rfgames.tw) website
-  * [devcontainers](https://github.com/progamesigner/devcontainers) for [DevContainers](https://containers.dev)
-* 5+ tools and mobile apps
-  * [devtools](https://github.com/progamesigner/devtools) for Docker & Kubernetes
-  * [vecode-server](https://github.com/progamesigner/vscode-server) for Remote Tunnel
+### Tools for Developers
+
+<div align="left">
+  <a href="https://github.com/progamesigner/devcontainers">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/devtools">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/vscode-server">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent" />
+  </a>
+</div>
+
+### Maintenance
+
+<div align="left">
+  <a href="https://github.com/progamesigner/rfgames-web">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/rfgames-backend">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/rfgames-manifests">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent" />
+  </a>
+</div>
+
+### 5+ tools and mobile apps
   * [Secret Send](https://send.0x148.com)
   * [Wi-Fi Card](https://github.com/progamesigner/wificard)
   * [BoardGameGallery](https://github.com/progamesigner/boardgamegallery)
-* And more new projects ...
+  * And more new projects ...
 
 <div align="center">
-
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true)](https://github.com/progamesigner)
-
+  <a href="https://github.com/progamesigner">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=progamesigner&count_private=true&hide_border=true&layout=compact&theme=transparent" />
+  </a>
 </div>
