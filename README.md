@@ -83,9 +83,6 @@ tools = [
 
 <div align="center">
   <a href="https://github.com/progamesigner">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=progamesigner&count_private=true&hide_border=true&layout=compact&theme=transparent" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
   </a>
 </div>
