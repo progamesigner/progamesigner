@@ -51,13 +51,13 @@ tools = [
 
 <div align="left">
   <a href="https://github.com/progamesigner/devcontainers">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/progamesigner/devtools">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/progamesigner/vscode-server">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent" />
   </a>
 </div>
 
@@ -65,13 +65,13 @@ tools = [
 
 <div align="left">
   <a href="https://github.com/progamesigner/rfgames-web">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/progamesigner/rfgames-backend">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/progamesigner/rfgames-manifests">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent" />
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent" />
   </a>
 </div>
 
@@ -83,9 +83,9 @@ tools = [
 
 <div align="center">
   <a href="https://github.com/progamesigner">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
   </a>
   <a href="https://github.com/progamesigner">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=progamesigner&count_private=true&hide_border=true&layout=compact&theme=transparent" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=progamesigner&count_private=true&hide_border=true&layout=compact&theme=transparent" />
   </a>
 </div>
