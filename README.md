@@ -25,27 +25,25 @@ location = "Taipei, Taiwan"
 
 [skills]
 languages = [
-  "c/cpp/c#",
-  "rust/go/java",
-  "php/typescript/python/ruby/lua",
+  "rust/swift/kotlin/dart/go/java/c/cpp/c#",
+  "python/typescript/php/ruby/lua",
   "javascript/html/css/scss/sql",
-  "react/vuejs/mithril/redux",
-  "unity/webpack/hugo/nextjs/svelte",
   "more...",
 ]
 
 tools = [
+  "react/vuejs/mithril/vite/webpack/hugo/nextjs/svelte/redux",
+  "react-native/flutter/unity",
   "kubernetes/docker/kafka",
   "postgresql/mongodb/mariadb",
-  "redis/elasticsearch/nginx",
-  "jaeger/prometheus/elasticstack",
+  "redis/elasticsearch/jaeger/prometheus/elasticstack/nginx",
   "ansible/chef/terraform",
   "aws/gcp/azure",
   "more...",
 ]
 ```
 
-## Goals for 2023
+## Goals for 2024
 
 ### Tools for Developers
 
