@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm progamesigner!
+# Hi 👋, I'm [progamesigner](https://progamesigner.com)!
 
 </div>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-Hi, I'm progamesigner, a developer based in Taipei, Taiwan. I have a passion for developing softwares, applications, games, websites, and anything about our life. Developing had been a necessary part of my life since my young age.
+Hi, I'm progamesigner, a developer based in Taipei, Taiwan. I’m passionate about creating software, applications, games, websites, and innovative solutions that enhance everyday life. Development has been an integral part of my journey since a young age.
 
 ```toml
 [progamesigner]
@@ -25,7 +25,7 @@ location = "Taipei, Taiwan"
 
 [skills]
 languages = [
-  "rust/swift/kotlin/dart/go/java/c/cpp/c#",
+  "rust/dart/swift/kotlin/go/java/c/cpp/c#",
   "python/typescript/php/ruby/lua",
   "javascript/html/css/scss/sql",
   "more...",
@@ -33,21 +33,44 @@ languages = [
 
 tools = [
   "react/vuejs/mithril/vite/webpack/hugo/nextjs/svelte/redux",
-  "react-native/flutter/unity",
+  "flutter/react-native/unity/unreal",
   "kubernetes/docker/kafka",
-  "postgresql/mongodb/mariadb",
+  "postgresql/mariadb/mongodb",
   "redis/elasticsearch/jaeger/prometheus/elasticstack/nginx",
   "ansible/chef/terraform",
-  "aws/gcp/azure",
+  "aws/gcp/azure/digitalocean",
   "more...",
 ]
 ```
 
-## Goals for 2024
+## My Open Source Projects
 
-### Tools for Developers
+### Services & Tools
 
-<div align="left">
+<div style="display:flex;flex-wrap:wrap;gap:1rem;">
+  <div style="display:flex;flex-direction:column;align-items:center">
+    <a href="https://github.com/progamesigner/boardgamegallery">
+      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=boardgamegallery&hide_border=true&theme=transparent" />
+    </a>
+    <a href="https://boardgames.0x148.com">Board Game Gallery</a>
+  </div>
+  <div style="display:flex;flex-direction:column;align-items:center">
+    <a href="https://github.com/progamesigner/wificard">
+      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=wificard&hide_border=true&theme=transparent" />
+    </a>
+    <a href="https://wificard.0x148.com">Wi-Fi Card</a>
+  </div>
+  <div style="display:flex;flex-direction:column;align-items:center">
+    <a href="https://github.com/progamesigner/open-search-maker">
+      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=open-search-maker&hide_border=true&theme=transparent" />
+    </a>
+    <a href="https://open-search-maker.0x148.com">Open Search Maker</a>
+  </div>
+</div>
+
+### Development Tools
+
+<div style="display:flex;flex-wrap:wrap;gap:1rem;">
   <a href="https://github.com/progamesigner/devcontainers">
     <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent" />
   </a>
@@ -59,9 +82,24 @@ tools = [
   </a>
 </div>
 
-### Maintenance
+### Others
 
-<div align="left">
+<div style="display:flex;flex-wrap:wrap;gap:1rem;">
+  <a href="https://github.com/progamesigner/manifests">
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=manifests&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/playbooks">
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=playbooks&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/phoenix">
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=phoenix&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/hugo-theme-0x148">
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=hugo-theme-0x148&hide_border=true&theme=transparent" />
+  </a>
+  <a href="https://github.com/progamesigner/gw2-dps-report">
+    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=gw2-dps-report&hide_border=true&theme=transparent" />
+  </a>
   <a href="https://github.com/progamesigner/rfgames-web">
     <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent" />
   </a>
@@ -73,11 +111,16 @@ tools = [
   </a>
 </div>
 
-### 5+ tools and mobile apps
-  * [Secret Send](https://send.0x148.com)
-  * [Wi-Fi Card](https://github.com/progamesigner/wificard)
-  * [BoardGameGallery](https://github.com/progamesigner/boardgamegallery)
-  * And more new projects ...
+## My Service Projects
+
+- [RFGames](https://rfgames.tw)
+- [Secret Send](https://send.0x148.com)
+
+## Goals for 2025
+
+- Add more features to [devcontainers](https://github.com/progamesigner/devcontainers).
+- Update and make [phoenix](https://github.com/progamesigner/phoenix) more robust.
+- Redesign [boardgamegallery](https://github.com/progamesigner/boardgamegallery) with more features.
 
 <div align="center">
   <a href="https://github.com/progamesigner">
