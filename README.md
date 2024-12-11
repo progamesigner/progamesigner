@@ -47,73 +47,37 @@ tools = [
 
 ### Services & Tools
 
-<div style="display:flex;flex-wrap:wrap;gap:1rem;">
-  <div style="display:flex;flex-direction:column;align-items:center">
-    <a href="https://github.com/progamesigner/boardgamegallery">
-      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=boardgamegallery&hide_border=true&theme=transparent" />
-    </a>
-    <a href="https://boardgames.0x148.com">Board Game Gallery</a>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center">
-    <a href="https://github.com/progamesigner/wificard">
-      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=wificard&hide_border=true&theme=transparent" />
-    </a>
-    <a href="https://wificard.0x148.com">Wi-Fi Card</a>
-  </div>
-  <div style="display:flex;flex-direction:column;align-items:center">
-    <a href="https://github.com/progamesigner/open-search-maker">
-      <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=open-search-maker&hide_border=true&theme=transparent" />
-    </a>
-    <a href="https://open-search-maker.0x148.com">Open Search Maker</a>
-  </div>
-</div>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=boardgamegallery&hide_border=true&theme=transparent)](https://github.com/progamesigner/boardgamegallery)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=wificard&hide_border=true&theme=transparent)](https://github.com/progamesigner/wificard)
 
-### Development Tools
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=open-search-maker&hide_border=true&theme=transparent)](https://github.com/progamesigner/open-search-maker)
 
-<div style="display:flex;flex-wrap:wrap;gap:1rem;">
-  <a href="https://github.com/progamesigner/devcontainers">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/devtools">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/vscode-server">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent" />
-  </a>
-</div>
+### Development Tools & Home-lab
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent)](https://github.com/progamesigner/devcontainers)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=manifests&hide_border=true&theme=transparent)](https://github.com/progamesigner/manifests)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=playbooks&hide_border=true&theme=transparent)](https://github.com/progamesigner/playbooks)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent)](https://github.com/progamesigner/devtools)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent)](https://github.com/progamesigner/vscode-server)
 
 ### Others
 
-<div style="display:flex;flex-wrap:wrap;gap:1rem;">
-  <a href="https://github.com/progamesigner/manifests">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=manifests&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/playbooks">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=playbooks&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/phoenix">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=phoenix&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/hugo-theme-0x148">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=hugo-theme-0x148&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/gw2-dps-report">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=gw2-dps-report&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/rfgames-web">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/rfgames-backend">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/progamesigner/rfgames-manifests">
-    <img width="240" src="https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent" />
-  </a>
-</div>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=phoenix&hide_border=true&theme=transparent)](https://github.com/progamesigner/phoenix)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=hugo-theme-0x148&hide_border=true&theme=transparent)](https://github.com/progamesigner/hugo-theme-0x148)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=gw2-dps-report&hide_border=true&theme=transparent)](https://github.com/progamesigner/gw2-dps-report)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-web)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-backend)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-manifests)
 
 ## My Service Projects
 
 - [RFGames](https://rfgames.tw)
+- [Board Game Gallery](https://boardgames.0x148.com)
+- [Wi-Fi Card](https://wificard.0x148.com)
+- [Open Search Maker](https://open-search-maker.0x148.com)
 - [Secret Send](https://send.0x148.com)
 
 ## Goals for 2025
