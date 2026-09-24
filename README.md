@@ -1,93 +1,57 @@
+<pre>
+<b>$ whoami</b>
+Yang Sheng Han (progamesigner)
+Software engineer · Taipei, Taiwan
 
-<div align="center">
+<b>$ cat ~/about.md</b>
+I build products and the infrastructure under them,
+from small web apps people use every day to the
+clusters they run on. Lately I'm teaching AI agents
+to remember, and giving them a home to live in.
 
-# Hi 👋, I'm [progamesigner](https://progamesigner.com)!
+<b>$ cat ~/now.md</b>
+→ <a href="https://github.com/progamesigner/muninn">muninn</a>     long-term memory for AI agents
+→ <a href="https://github.com/progamesigner/sleipnir">sleipnir</a>   a whole agent team, run from my phone
 
-</div>
+<b>$ cat ~/contact.md</b>
+web    <a href="https://progamesigner.com">progamesigner.com</a>
+blog   <a href="https://0x148.com">0x148.com</a>
+mail   <a href="mailto:progamesigner@outlook.com">progamesigner@outlook.com</a>
+x      <a href="https://x.com/progamesigner">@progamesigner</a>
+in     <a href="https://www.linkedin.com/in/progamesigner">linkedin.com/in/progamesigner</a>
 
-<div align="center">
+<b>$ ls ~/shipped</b>
+<a href="https://wificard.0x148.com">wificard</a>  <a href="https://boardgames.0x148.com">boardgames</a>  <a href="https://open-search-maker.0x148.com">open-search</a>  <a href="https://send.0x148.com">secret-send</a>  <a href="https://rfgames.tw">rfgames</a>
 
-  [![Website](https://img.shields.io/badge/Website-black?style=flat-square&labelColor=black&logo=hugo&logoColor=ff4088)](https://progamesigner.com)
-  [![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&labelColor=black&logo=blogger&logoColor=ff5722)](https://0x148.com)
-  [![Email](https://img.shields.io/badge/Email-black?style=flat-square&labelColor=black&logo=gmail&logoColor=d14836)](mailto:progamesigner@outlook.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&labelColor=black&logo=twitter&logoColor=1da1f2)](https://twitter.com/progamesigner)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=flat-square&labelColor=black&logo=Linkedin&logoColor=0077b5)](https://www.linkedin.com/in/progamesigner)
+<b>$</b> █
+</pre>
 
-</div>
+### 🚀 ~/shipped
 
-Hi, I'm progamesigner, a developer based in Taipei, Taiwan. I’m passionate about creating software, applications, games, websites, and innovative solutions that enhance everyday life. Development has been an integral part of my journey since a young age.
+*Things you can use today.*
 
-```toml
-[progamesigner]
-name = "Yang Sheng Han"
-email = "progamesigner [AT] outlook.com"
-location = "Taipei, Taiwan"
+- **Wi-Fi Card**: print a card with a QR code so guests can join your Wi-Fi without spelling out the password. [Try it](https://wificard.0x148.com) · [Source](https://github.com/progamesigner/wificard)
+- **Board Game Gallery**: turn a spreadsheet of your board games into a shareable gallery. [Try it](https://boardgames.0x148.com) · [Source](https://github.com/progamesigner/boardgamegallery)
+- **Open Search Maker**: search any site straight from your browser's address bar. [Try it](https://open-search-maker.0x148.com) · [Source](https://github.com/progamesigner/open-search-maker)
+- **Secret Send**: share a password or secret through a link instead of pasting it into chat. [Try it](https://send.0x148.com)
+- **Wikipedia MCP**: let AI assistants look things up on Wikipedia. [Source](https://github.com/progamesigner/wikipedia-mcp)
 
-[skills]
-languages = [
-  "rust/dart/swift/kotlin/go/java/c/cpp/c#",
-  "python/typescript/php/ruby/lua",
-  "javascript/html/css/scss/sql",
-  "more...",
-]
+### 🏠 ~/homelab
 
-tools = [
-  "react/vuejs/mithril/vite/webpack/hugo/nextjs/svelte/redux",
-  "flutter/react-native/unity/unreal",
-  "kubernetes/docker/kafka",
-  "postgresql/mariadb/mongodb",
-  "redis/elasticsearch/jaeger/prometheus/elasticstack/nginx",
-  "ansible/chef/terraform",
-  "aws/gcp/azure/digitalocean",
-  "more...",
-]
-```
+*The setup I work and run things on.*
 
-## My Open Source Projects
+- **[devcontainers](https://github.com/progamesigner/devcontainers)**: ready-to-code environments. Open a repo and start working, no setup.
+- **[vscode-server](https://github.com/progamesigner/vscode-server)**: my editor, running on a server and reachable from anywhere.
+- **[manifests](https://github.com/progamesigner/manifests)** & **[playbooks](https://github.com/progamesigner/playbooks)**: my entire home lab, rebuildable from code.
+- **[devtools](https://github.com/progamesigner/devtools)**: a toolbox to drop into any container when something breaks.
+- **[dotfiles](https://github.com/progamesigner/dotfiles)**: a new machine feels like home in minutes.
 
-### Services & Tools
+### 🎲 ~/misc
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=boardgamegallery&hide_border=true&theme=transparent)](https://github.com/progamesigner/boardgamegallery)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=wificard&hide_border=true&theme=transparent)](https://github.com/progamesigner/wificard)
+*Games, themes, and odds and ends.*
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=open-search-maker&hide_border=true&theme=transparent)](https://github.com/progamesigner/open-search-maker)
-
-### Development Tools & Home-lab
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devcontainers&hide_border=true&theme=transparent)](https://github.com/progamesigner/devcontainers)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=manifests&hide_border=true&theme=transparent)](https://github.com/progamesigner/manifests)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=playbooks&hide_border=true&theme=transparent)](https://github.com/progamesigner/playbooks)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=devtools&hide_border=true&theme=transparent)](https://github.com/progamesigner/devtools)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=vscode-server&hide_border=true&theme=transparent)](https://github.com/progamesigner/vscode-server)
-
-### Others
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=phoenix&hide_border=true&theme=transparent)](https://github.com/progamesigner/phoenix)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=hugo-theme-0x148&hide_border=true&theme=transparent)](https://github.com/progamesigner/hugo-theme-0x148)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=gw2-dps-report&hide_border=true&theme=transparent)](https://github.com/progamesigner/gw2-dps-report)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-web&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-web)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-backend&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-backend)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=progamesigner&repo=rfgames-manifests&hide_border=true&theme=transparent)](https://github.com/progamesigner/rfgames-manifests)
-
-## My Service Projects
-
-- [RFGames](https://rfgames.tw)
-- [Board Game Gallery](https://boardgames.0x148.com)
-- [Wi-Fi Card](https://wificard.0x148.com)
-- [Open Search Maker](https://open-search-maker.0x148.com)
-- [Secret Send](https://send.0x148.com)
-
-## Goals for 2025
-
-- Add more features to [devcontainers](https://github.com/progamesigner/devcontainers).
-- Update and make [phoenix](https://github.com/progamesigner/phoenix) more robust.
-- Redesign [boardgamegallery](https://github.com/progamesigner/boardgamegallery) with more features.
-
-<div align="center">
-  <a href="https://github.com/progamesigner">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=progamesigner&count_private=true&hide_border=true&show_icons=true&theme=transparent" />
-  </a>
-</div>
+- **[RFGames](https://rfgames.tw)**: home of the Rush guild community in Guild Wars 2. [Web](https://github.com/progamesigner/rfgames-web) · [Backend](https://github.com/progamesigner/rfgames-backend)
+- **[gw2-dps-report](https://github.com/progamesigner/gw2-dps-report)**: upload Guild Wars 2 combat logs and post the results to Discord automatically.
+- **[phoenix](https://github.com/progamesigner/phoenix)**: a cleaner, single-bar look for Firefox.
+- **[hugo-theme-0x148](https://github.com/progamesigner/hugo-theme-0x148)**: the theme behind my blog.
+- **[ingress-default-backend](https://github.com/progamesigner/ingress-default-backend)**: a clean fallback page for requests that no Kubernetes service handles.
