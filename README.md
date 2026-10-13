@@ -12,6 +12,7 @@ to remember, and giving them a home to live in.
 <b>$ cat ~/now.md</b>
 → <a href="https://github.com/progamesigner/muninn">muninn</a>     long-term memory for AI agents
 → <a href="https://github.com/progamesigner/sleipnir">sleipnir</a>   a whole agent team, run from my phone
+→ <a href="https://github.com/progamesigner/bragi">bragi</a>      reads board game scripts aloud, one passage at a time
 
 <b>$ cat ~/contact.md</b>
 web    <a href="https://progamesigner.com">progamesigner.com</a>
